@@ -9,7 +9,7 @@ Este projeto realiza uma análise exploratória e modelagem estatística dos pre
 
 ---
 
-## 📂 Arquivos incluídos
+## 📂 Arquivo incluído
 
 - `hoteis.csv`: dataset com informações dos hotéis (não incluso, insira localmente).
 
