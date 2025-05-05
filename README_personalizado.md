@@ -11,8 +11,6 @@ Este projeto realiza uma análise exploratória e modelagem estatística dos pre
 
 ## 📂 Arquivos incluídos
 
-- `analise_precos_hoteis.py`: script Python com o pipeline completo do projeto.
-- `analise_precos_hoteis.ipynb`: notebook Jupyter com visualização interativa (opcional).
 - `hoteis.csv`: dataset com informações dos hotéis (não incluso, insira localmente).
 
 ---
