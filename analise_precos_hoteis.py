@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1w3KB-Y1bHI--hHubOV1z9eiRmA6qmjbk
 
 # 📊 Análise e Predição de Preços de Hotéis
-**Autor:** [Seu Nome]
+**Autor:** Lucas Guimarães
 **Ferramentas:** Python, Pandas, Seaborn, Statsmodels, Plotly, Sklearn
 """
 
