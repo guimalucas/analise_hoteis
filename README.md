@@ -1,21 +1,21 @@
 
-# 📊 Análise e Predição de Preços de Hotéis
+#  Análise e Predição de Preços de Hotéis
 
 Este projeto realiza uma análise exploratória e modelagem estatística dos preços de hotéis com base em características como:
 
-- Número de estrelas ⭐
-- Proximidade de pontos turísticos 🗺️
-- Capacidade de hóspedes 🛏️
+- Número de estrelas 
+- Proximidade de pontos turísticos 
+- Capacidade de hóspedes 
 
 ---
 
-## 📂 Arquivo incluído
+##  Arquivo incluído
 
 - `hoteis.csv`: dataset com informações dos hotéis (não incluso, insira localmente).
 
 ---
 
-## ▶️ Rodar no Google Colab (opcional)
+##  Rodar no Google Colab (opcional)
 
 Se você preferir a versão notebook, clique no botão abaixo:
 
@@ -23,7 +23,7 @@ Se você preferir a versão notebook, clique no botão abaixo:
 
 ---
 
-## 🚀 Como executar localmente
+##  Como executar localmente
 
 ```bash
 # Clonar o repositório
@@ -39,7 +39,7 @@ python analise_precos_hoteis.py
 
 ---
 
-## 🛠️ Bibliotecas utilizadas
+##  Bibliotecas utilizadas
 
 - pandas
 - numpy
@@ -51,6 +51,6 @@ python analise_precos_hoteis.py
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto é de uso livre para fins educacionais e portfólio.
